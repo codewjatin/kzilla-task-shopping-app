@@ -7,7 +7,8 @@ A shopping app with api data fetching, cart and favourites system.
 * [x] Api Data Fetching
 * [x] Global State Management
 * [x] Splash Screen
-* [x] Good Code Splitting
+* [x] Code Splitting - Models / Components / Screens
+* [ ] Separate screen for product
 * [ ] Firebase (to be implemented)
 * [ ] Animations (learning)
 
