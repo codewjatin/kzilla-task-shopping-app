@@ -1,4 +1,4 @@
-# shopping_app
+# Shopping App
 
 A shopping app with api data fetching, cart and favourites system.
 
