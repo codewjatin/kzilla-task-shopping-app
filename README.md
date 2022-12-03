@@ -17,4 +17,5 @@ A shopping app with api data fetching, cart and favourites system.
 
 ## Looks
 
-https://github.com/codewjatin/kzilla-task-shopping-app/raw/main/assets/shopping_app.mp4
+https://user-images.githubusercontent.com/59236972/205454780-2495d712-b009-4f5f-acce-66bc425cc94b.mp4
+
